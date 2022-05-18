@@ -1,0 +1,17 @@
+{
+  "name": "silverchat",
+  "version": "1.0.0",
+  "description": "RealTime Chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silverfolk",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.1"
+  }
+}
